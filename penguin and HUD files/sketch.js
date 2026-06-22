@@ -46,8 +46,6 @@ const STOMP = {
 
   offsetX: 10,
   offsetY: 0,
-
-  drawOffsetY: 50,
 };
 
 let player = {
